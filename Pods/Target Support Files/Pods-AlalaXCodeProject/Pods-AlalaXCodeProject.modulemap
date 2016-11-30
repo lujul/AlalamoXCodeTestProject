@@ -1,0 +1,6 @@
+framework module Pods_AlalaXCodeProject {
+  umbrella header "Pods-AlalaXCodeProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
